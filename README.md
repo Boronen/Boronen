@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Boronen
 - 👀 I’m interested in sports, Networking and little bit in Programming
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# , Java
 - 💞️ I’m looking to collaborate on any asset archaeology project
 
 <!---
